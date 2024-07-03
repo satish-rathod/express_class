@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "name": "java"
+    },
+    {
+        "id": 2,
+        "name": "math"
+    },
+    {
+        "id": 3,
+        "name": "development"
+    },
+    {
+        "id": 4,
+        "name": "science"
+    }
+]
