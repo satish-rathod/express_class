@@ -1,18 +1,1 @@
-[
-    {
-        "id": 1,
-        "name": "java"
-    },
-    {
-        "id": 2,
-        "name": "math"
-    },
-    {
-        "id": 3,
-        "name": "development"
-    },
-    {
-        "id": 4,
-        "name": "science"
-    }
-]
+[{"id":1,"name":"Java -KS"},{"id":2,"name":"math"},{"id":3,"name":"development"},{"id":4,"name":"science"},{"id":5,"name":"competative programing"}]
